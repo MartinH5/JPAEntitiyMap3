@@ -68,7 +68,6 @@ public class DiscountType extends Customer implements Serializable {
         }
         return true;
     }
-
     @Override
     public String toString() {
         return "entity.DiscountTyper[ id=" + id + " ]";
